@@ -136,4 +136,8 @@ body {
         height: auto;
         width: 70vw;
     }
+
+    .logo img {
+        max-width: 100vw;
+    }
 }
